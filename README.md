@@ -3,7 +3,12 @@ First Rail London × WEEE Renew - Asset Recovery Dashboard
 A Power BI dashboard tracking 589 IT devices recovered through the First Rail London and WEEE Renew partnership, measuring environmental impact, circularity, and data security.
 The story in numbers
 
-MetricValueDevices recovered & diverted from landfill589CO₂e emissions avoided (embodied)50.4 tonnesDevices given a second life531 (90%)Devices securely data-wiped260Weight kept out of landfill663 kg
+Metric Value 
+Devices recovered & diverted from landfill 
+589 CO₂e emissions avoided (embodied) 50.4 tonnes
+Devices given a second life 531 (90%)
+Devices securely data-wiped260
+Weight kept out of landfill 663 kg
 
 The 3 Rs
 
@@ -21,13 +26,13 @@ What was recovered, where it went, and the WEEE Renew journey. Includes device c
 <img width="1313" height="739" alt="Screenshot 2026-06-15 124101" src="https://github.com/user-attachments/assets/0166cb15-5c4e-4f4e-9e49-34824c1d8f14" />
 
 
-Page 2 - Environmental Impact (Public)
+Page 2 - Environmental Impact
 
 The carbon story — 50.4 tonnes of CO₂e avoided by reusing devices instead of manufacturing new ones. Equivalences (832 trees, 11 cars, 24 homes), carbon by asset type, weight diverted, and reuse rate.
 
 <img width="1315" height="736" alt="Screenshot 2026-06-15 124120" src="https://github.com/user-attachments/assets/5bfc0ca3-304b-4582-909f-b14c2c3e2b57" />
 
-Page 3 - Asset Detail & Operations (Internal)
+Page 3 - Asset Detail & Operations
 
 The operational picture — device condition at intake, data-wipe status, top manufacturers, and full inventory by category with CO₂e and weight.
 
